@@ -7,6 +7,8 @@ public class WelcomeGit {
 		System.out.println("Hi Git, tis is my first Demo");
 		System.out.println("Hi Git, tis is my second Demo");
 		System.out.println("from git");
+		System.out.println("from git2");
+		System.out.println("from git3");
 	}
 
 }
